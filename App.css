@@ -1,0 +1,104 @@
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.main-heading{
+  color: red;
+  font-size: 26px;
+}
+.underline{
+  height: 4px;
+  width: 4rem;
+  background-color: orange;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bg-c-light{
+  background-color: #f2f2f2;
+}
+p{
+  font-size: 14px;
+  color: #262626;
+}
+.footer a{
+  color: white;
+  text-decoration: none !important;
+}
+.footer a:hover{
+  color: gray;
+}
+.title{
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 75px;
+  color: white;
+  padding: 17px;
+}
+.pic{
+  margin-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  border-radius: 20px;
+}
+.pic1{
+  margin-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  border-radius: 20px;
+}
+.pic2{
+  margin-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 35px;
+  border-radius: 20px;
+}
+.carsouel{
+  background-color: grey;
+  border-radius: 20px;
+  margin: 10px;
+}
+.content{
+  background-color: darkgray;
+  border-radius: 20px;
+  margin: 10px;
+}
+.tagline{
+  color: wheat;
+}
+.tagline1{
+  color:wheat ;
+}
+.tagline2{
+  color:wheat ;
+}
+.content1{
+  margin: 10px;
+  text-align:  justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+}
+.title1{
+  margin-left: 130px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.content2{
+ font-size: 30px;
+ text-align: center;
+ color:  cornflowerblue;
+ font-weight: bold;
+}
+.content3{
+  font-size: 20px;
+  text-align: justify;
+  margin: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.about{
+  background-color: beige;
+}
+.vmc{
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.services{
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+}
